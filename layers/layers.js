@@ -119,7 +119,7 @@ var lyr_Category1Eligibility_8 = new ol.layer.Vector({
                 source:jsonSource_Category1Eligibility_8, 
                 style: style_Category1Eligibility_8,
                 interactive: true,
-                title: '<img src="styles/legend/Category1Eligibility_8.png" /> Category 1 Eligibility'
+                title: '<img src="styles/legend/Category1Eligibility_8.png" /> Category 1 Eligibility/NMTC Qualified Areas'
             });
 var format_ElectricCertifiedTerritories_9 = new ol.format.GeoJSON();
 var features_ElectricCertifiedTerritories_9 = format_ElectricCertifiedTerritories_9.readFeatures(json_ElectricCertifiedTerritories_9, 
